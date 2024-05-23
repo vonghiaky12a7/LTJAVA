@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="7533d33e-4cb4-45e5-a815-572540489d5c" name="KYVO@127.0.0.1 Mapping">
+      <data-sources db="4bee4bea-ff9e-4ce4-90ad-3dc57e9cde66" ddl="b3c1d723-a8ba-4ba6-a7d3-949decbe1710" />
+      <scope>
+        <node kind="database" negative="1" />
+      </scope>
+    </mapping>
+  </component>
+</project>
